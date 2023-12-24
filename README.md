@@ -1,5 +1,5 @@
 # Introduction
-Reimplementation of the slicing strategy introduced by [Wüthrich et al.](https://www.researchgate.net/publication/354726760_A_Novel_Slicing_Strategy_to_Print_Overhangs_without_Support_Material)
+Reimplementation of the slicing strategy introduced by [Wüthrich et al.](https://www.researchgate.net/publication/354726760_A_Novel_Slicing_Strategy_to_Print_Overhangs_without_Support_Material). For the original implementation, check out https://github.com/RotBotSlicer/Transform
 
 
 
